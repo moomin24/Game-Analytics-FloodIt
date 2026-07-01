@@ -1,1 +1,1 @@
-# Game-nalytics-FloodIt
+# Game-Analytics-FloodIt
